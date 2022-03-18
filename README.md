@@ -1,6 +1,6 @@
 # CRYPTO_MINER
 SSL Stratum Port
-# INJECTOR Extensions
+# INJECTOR Source
 * Visual Basic Script
 * Javascript
 * HTML Application
